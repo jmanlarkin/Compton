@@ -1,0 +1,88 @@
+
+michael.venier-karzis@mail.mcgill.ca requesting 2 files per target at 55 degrees:
+  No Scatterer (Before)
+    1/180: Transferred file 30
+    2/180: Transferred file 18
+  Aluminum
+    3/180: Transferred file 0
+    4/180: Transferred file 24
+  Copper
+    5/180: Transferred file 5
+    6/180: Transferred file 18
+
+michael.venier-karzis@mail.mcgill.ca requesting 2 files per target at 75 degrees:
+  No Scatterer (Before)
+    7/180: Transferred file 15
+    8/180: Transferred file 2
+  Aluminum
+    9/180: Transferred file 30
+    10/180: Transferred file 24
+  Copper
+    11/180: Transferred file 25
+    12/180: Transferred file 2
+
+michael.venier-karzis@mail.mcgill.ca requesting 2 files per target at 95 degrees:
+  No Scatterer (Before)
+    13/180: Transferred file 1
+    14/180: Transferred file 28
+  Aluminum
+    15/180: Transferred file 28
+    16/180: Transferred file 2
+  Copper
+    17/180: Transferred file 31
+    18/180: Transferred file 9
+
+michael.venier-karzis@mail.mcgill.ca requesting 2 files per target at 125 degrees:
+  No Scatterer (Before)
+    19/180: Transferred file 36
+    20/180: Transferred file 13
+  Aluminum
+    21/180: Transferred file 27
+    22/180: Transferred file 36
+  Copper
+    23/180: Transferred file 21
+    24/180: Transferred file 31
+
+michael.venier-karzis@mail.mcgill.ca requesting 2 files per target at 220 degrees:
+  No Scatterer (Before)
+    25/180: Transferred file 33
+    26/180: Transferred file 17
+  Aluminum
+    27/180: Transferred file 39
+    28/180: Transferred file 36
+  Copper
+    29/180: Transferred file 20
+    30/180: Transferred file 36
+
+michael.venier-karzis@mail.mcgill.ca requesting 2 files per target at 240 degrees:
+  No Scatterer (Before)
+    31/180: Transferred file 10
+    32/180: Transferred file 30
+  Aluminum
+    33/180: Transferred file 2
+    34/180: Transferred file 7
+  Copper
+    35/180: Transferred file 36
+    36/180: Transferred file 10
+
+michael.venier-karzis@mail.mcgill.ca requesting 2 files per target at 260 degrees:
+  No Scatterer (Before)
+    37/180: Transferred file 15
+    38/180: Transferred file 32
+  Aluminum
+    39/180: Transferred file 6
+    40/180: Transferred file 39
+  Copper
+    41/180: Transferred file 31
+    42/180: Transferred file 0
+
+michael.venier-karzis@mail.mcgill.ca requesting 2 files per target at 300 degrees:
+  No Scatterer (Before)
+    43/180: Transferred file 1
+    44/180: Transferred file 21
+  Aluminum
+    45/180: Transferred file 32
+    46/180: Transferred file 17
+  Copper
+    47/180: Transferred file 12
+    48/180: Transferred file 10
